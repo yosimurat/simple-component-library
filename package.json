@@ -1,7 +1,7 @@
 {
-  "name": "simple-component-library",
+  "name": "@yosimurat/simple-component-library",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [ "dist", "README.md" ],
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/yosimurat/simple-component-library"
   }
 }
